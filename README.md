@@ -4,9 +4,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
-![Milton GitHub stats](https://github-readme-stats.vercel.app/api?username=Miltonfragoso&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miltonfragoso)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://github.com/Miltonfragoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miltonfragoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miltonfragoso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
