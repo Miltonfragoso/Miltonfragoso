@@ -6,6 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div>
   <a href="https://github.com/Miltonfragoso">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miltonfragoso&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 </div>
   
 ## Tecnologias que uso no meu dia
