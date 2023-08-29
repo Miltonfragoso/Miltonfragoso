@@ -1,11 +1,11 @@
-### Olá Eu sou o Milton Fragoso 🖐️
+5### Olá Eu sou o Milton Fragoso 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milton.fragoso)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-fragoso-desenvolvedor)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0)
 
 <div>
   <a href="https://github.com/Miltonfragoso">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miltonfragoso&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miltonfragoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miltonfragoso&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
