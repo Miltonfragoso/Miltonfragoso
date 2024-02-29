@@ -9,7 +9,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miltonfragoso&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
-## Tecnologias que uso no meu dia
+## Technologies I use in my daily life
 <div align="left">
   <img height="250" alt="coding-time" src="code.gif">
 </div>
